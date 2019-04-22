@@ -1,7 +1,10 @@
 <!DOCTYPE html>
 <html>
-<body>
-<p> .online-2S838R:not(.statusProfile-3ynqtt):not(.status-3fQvEa):not(.popout-2fzvxG) {
+  <head>
+    <title>Nachop2.github.io</title>
+  </head>
+  <body>
+ <p> .online-2S838R:not(.statusProfile-3ynqtt):not(.status-3fQvEa):not(.popout-2fzvxG) {
       border-width: 1.5px !important;}
 .dnd-1_xrcq:not(.statusProfile-3ynqtt):not(.status-3fQvEa):not(.popout-2fzvxG) {
       border-width: 1.5px !important;}
